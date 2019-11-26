@@ -111,7 +111,7 @@ dependencies {
     androidTestImplementation deps.support.app_compat
     androidTestImplementation deps.support.design
 
-    implementation project(':iiclib')
+    implementation project(':projectlib')
 
     //Image library
     implementation deps.picasso.picasso

@@ -1,1 +1,1 @@
-include ':app',':iiclib'
+include ':app',':projectlib'
