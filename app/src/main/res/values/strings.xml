@@ -1,0 +1,15 @@
+<resources>
+    <string name="facebook_app_id">***************</string>
+
+    <string name="nocontenttoshare">No content to share</string>
+    <string name="appnotinstalled">App not installed</string>
+    <string name="appinstalled">App installed</string>
+    <string name="failedtocaptureimage">Failed to capture image</string>
+    <string name="failedtopickupcontentfromgallary">Failed to pickup content from gallary</string>
+    <string name="noapptocaptureimage">No app to capture image</string>
+    <string name="devicedoesnotsupportcamer">Device doesn\'t support camera</string>
+    <string name="sharecontentonsocialmedia">Share content on social media</string>
+    <string name="somthingwentwrong">Some thing went wrong </string>
+    <string name="selectcontenttoshare">Select Content to share </string>
+
+</resources>
